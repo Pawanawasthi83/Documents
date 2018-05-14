@@ -4,23 +4,18 @@ Starting A hub:
 
 java -jar selenium-server-standalone-2.39.0.jar -port 4455 -role hub 
 
+HUB URL :
+http://localhost:4455/wd/hub
 Registerinng a node to the hub: 
 
 Node : 1
-java -Dwebdriver.chrome.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\chromedriver.exe -Dwebdriver.ie.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\IEDriverServer.exe -jar selenium-server-standalone-2.39.0.jar -role webdriver  -hub http://localhost:4455/grid/register -port 5555 -browser browserName=firefox,maxInstances=4 -browser browserName=chrome,maxInstances=3 -browser browserName=iexplore,maxInstances=2 -maxSession 4
+java -Dwebdriver.chrome.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\chromedriver.exe -Dwebdriver.ie.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\IEDriverServer.exe -jar selenium-server-standalone-2.53.0.jar -role webdriver  -hub http://localhost:4455/grid/register -port 5555 -browser browserName=firefox,maxInstances=4 -browser browserName=chrome,maxInstances=3 -browser browserName="internet explorer",maxInstances=2 -maxSession 4
 
 Node : 2
-java -Dwebdriver.chrome.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\chromedriver.exe -Dwebdriver.ie.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\IEDriverServer.exe -jar selenium-server-standalone-2.39.0.jar -role webdriver  -hub http://localhost:4455/grid/register -port 6666 -browser browserName=firefox,maxInstances=3 -browser browserName=chrome,maxInstances=2 -browser browserName=iexplore,maxInstances=1 -maxSession 2
+java -Dwebdriver.chrome.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\chromedriver.exe -Dwebdriver.ie.driver=C:\MyWorkSpace\FreeCRMTest\src\main\resources\Drivers\IEDriverServer.exe -jar selenium-server-standalone-2.53.0.jar -role webdriver  -hub http://localhost:4455/grid/register -port 7777 -browser browserName=firefox,maxInstances=3 -browser browserName=chrome,maxInstances=2 -browser browserName="internet explorer",maxInstances=2 -maxSession 4
 
 
 
+http://10.97.192.57:4455/grid/console
 
 
-
-
-<!-- https://mvnrepository.com/artifact/com.github.detro.ghostdriver/phantomjsdriver -->
-		<dependency>
-			<groupId>com.github.detro.ghostdriver</groupId>
-			<artifactId>phantomjsdriver</artifactId>
-			<version>1.1.0</version>
-		</dependency>
