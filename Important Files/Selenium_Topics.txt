@@ -1,0 +1,37 @@
+Selenium Archcitecture - Done
+HTML-DOM- Done
+JS-Browser Object Model(BOM)-Done
+JavaScript Executer -Done
+Handling JS Alert/popups - Done
+	File Upload Popup     - Done
+	SSL certificate window - Done
+	File uploads and File downloads
+	Default browser window
+
+Handling Select Drop Down Box- Done
+Checkbox  -Done
+Radio Button - Done
+
+Handling I frames - Done
+Iframe Inside a iframe - Not Done
+Handling multiple tabs  -- Done
+Handling Dynamic Web Tables  -- Done
+Handling Pagination for Dynamic web table: Done
+
+
+Custom Expected Condition -- Done
+Implicit wait -- Done
+Explicit wait -- Done
+Fluent Wait -- Done
+
+Mouse and keyboard events
+Handle Calendar/DatePicker
+
+Edit box
+Link
+Button
+Capture screenshots
+
+PageFactory
+StaleElement Exception in Selenium
+

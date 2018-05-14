@@ -1,0 +1,45 @@
+Git Commands for My New Project : MavenDemoProject
+
+
+SSH  ::: https://github.com/Pawanawasthi83/MavenDemoProject.git
+
+
+git init
+git status
+git add README.md
+git commit -m "first commit"
+
+HTTP:
+
+git remote add origin https://github.com/Pawanawasthi83/DemoTest.git
+SSH
+
+git remote add origin git@github.com:Pawanawasthi83/DemoTest.git
+
+git push -u origin master
+
+
+Generate Key :
+
+ssh-keygen -t rsa
+
+
+
+Establish the connection
+
+ssh -i ~/.ssh/id_rsa -p 122 Pawan.Awasthi@LP-EC8EB546E3ECD
+
+
+ssh -T git@github.com // Verify connectio
+
+
+
+OAuth Token :
+
+e94533ce221c00e47863fd99a7f28f422e04df8c
+
+
+
+
+
+

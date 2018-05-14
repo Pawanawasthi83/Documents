@@ -1,0 +1,56 @@
+##### Phase 1 #####
+-Log 4j :@@ Done 
+-Extent Report @@ Done
+-Rerunning of failed test cases @@ Done 
+-Connecting screen shot with extent report @@ Done 
+
+-Running Selenium Test cases On All Browser With TestNG:  @@ [Done]
+1. FF
+2. Chrome
+3. IE
+4. Safari
+5. Opera
+
+--Session Handling in Selenium WebDriver:  @@ Done
+--Desire Capabilities and browser options @@ Done
+
+
+-Headless testing:
+1. Headless Chrome   @@Done
+2. PhantomJS-Ghost Driver  @@Done
+3. SlimerJS
+4. TrifleJS
+5. HTMLUnit driver
+
+-- Grid @Done
+-- Selenium FrameWork
+
+
+#### Phase 2 ####
+-- Project-Naveen One test case every day
+-- Selenium Topics Revisted
+-- Interview Question-Selenium
+
+-- Core Java - Reveision [OOPS,Array,Access Modifier,Exception Handling,Inner Classes,ToString,HashCode,Equals,Wrapper Objects,Utility Methods,Regular expression,Collection,GC,ENUM,JVM Archcitecture,String Class,Memory Management]
+-- Core Java - Programing
+-- Interview Question - Java
+
+
+
+#### Phase 3 ####
+
+--Xpath
+--TestNg
+
+
+
+
+####Phase 4 #####
+--Responsive test suite
+--Design Pattern Fundamentals
+--Runner class
+--Migration on selenium 3
+--Cucumber
+--Print Session ID in logs
+--Parallel Tests using TestNG - @@ Not Working
+

@@ -1,0 +1,26 @@
+
+Course 1: - Selenium WebDriver with Java (Basics + Advance + Architecture)
+
+https://www.udemy.com/selenium-tutorials/
+Enter Username: w2apankajkr@yahoo.com
+Enter Password: AppiumSelenium123
+
+
+Course 2: Appium - Selenium 3.0 for Mobile Automation Testing
+
+https://www.udemy.com/appium-selendroid-tutorials/
+Enter Username: w2apankajkr@yahoo.com
+Enter Password: AppiumSelenium123
+
+
+
+PAN India : 0120-6104000
+Your Cisco Unified Meeting Place meeting ID: 08763303 
+Meeting Password: 123456 
+
+
+java -jar jenkins.war
+
+Latest Link:
+
+https://www.w3schools.com/code/tryit.asp?filename=FNOSHZZMYCVO
